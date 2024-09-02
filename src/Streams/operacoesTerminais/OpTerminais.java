@@ -9,7 +9,7 @@ public class OpTerminais {
     public static void main(String[] args) {
         List<Integer> numeros = Arrays.asList(1, 3, 5, 7, 9);
 
-        
+
 
 
         int soma = numeros.stream()
